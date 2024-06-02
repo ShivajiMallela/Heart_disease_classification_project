@@ -1,6 +1,6 @@
 # Heart Disease Classification
 
-This project aims to classify whether a patient has heart disease or not using machine learning techniques. It utilizes a variety of features from medical examinations to make the prediction.
+This project aims to classify whether a patient has heart disease or not, using machine learning techniques. It utilizes a variety of features from medical examinations to make the prediction.
 
 ## Table of Contents
 
