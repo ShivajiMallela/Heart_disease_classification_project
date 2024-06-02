@@ -35,6 +35,6 @@ The dataset used in this project is the [UCI Heart Disease Dataset](https://arch
 
 The project uses several machine learning algorithms to find the best-performing model for heart disease classification. The main steps include:
 
-1. **Data Preprocessing:** 
-2. **Model Training:** 
-3. **Evaluation:**
+1. **Data Preprocessing** 
+2. **Model Training** 
+3. **Evaluation**
